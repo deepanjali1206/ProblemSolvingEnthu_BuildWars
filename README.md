@@ -1,4 +1,7 @@
-# Website Link: 
+<<<<<<< HEAD
+
+# Website Link:
+
 https://coder024.github.io/Indian-Culture/
 
 # Introduction:
@@ -16,6 +19,7 @@ This website offers <b>comprehensive information</b> related to cultural heritag
 So come with us on this journey and explore the beautiful country that we call, India!
 
 # Objectives:
+
 India is well known for its rich and prosperous culture and heritage. The canvas of India’s culture is vast and has <b>hues and vibrancy </b>of all sorts. All the four corners of the nation are enriched by Paramount cultural diversity having its own peculiar and heart touching traditions.
 
 Culture plays an important role in the development of any nation. It represents a set of shared attitudes, values, goals, and practices. Culture and creativity manifest themselves in almost all economic, social, and other activities. A country as diverse as India is <b>symbolized by the plurality of its culture.</b>
@@ -25,17 +29,18 @@ Despite this cultural diversity, still, there are many citizens who prefer to mo
 As a result, our primary goal is <b>to promote Indian culture and tradition</b>, particularly among the country's youth, and to show them how India is indeed <b>“Incredible”</b> in every way.
 
 # Tools and Technologies Used:
+
 The website is developed using HTML, CSS, and Javascript. Google My Maps has been used to create a location picker that locates top heritage sites in India.
 The website is also responsive and can be viewed on different devices.
 
 # Implementation
 
-Welcome to our website <b>"Indian Culture"!</b> This is the homepage of the website which shows the logo of the website, navigation bar, and brief introduction of the website. 
+Welcome to our website <b>"Indian Culture"!</b> This is the homepage of the website which shows the logo of the website, navigation bar, and brief introduction of the website.
 The <b>"Read More"</b> button redirects the user to the official website of Indian Culture by The Government of India.
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/174475134-c166404b-528f-4080-be92-3cb253d071f7.png">
 
-This section of the website gives the user an overview of the famous heritage sites, and their great architecture and uniqueness in India. 
+This section of the website gives the user an overview of the famous heritage sites, and their great architecture and uniqueness in India.
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/174475248-02d14ce5-a75f-4b82-9641-f458af51eec3.png">
 
@@ -56,6 +61,6 @@ Every state and city in India has it's own speciality. This section shows the Gr
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/174476104-6bf199b4-7b76-48af-8de6-5318549f5600.png">
 
-The footer of the website gives different links where the user can read about India's heritage and culture and the contact links of the creator of the website. 
+The footer of the website gives different links where the user can read about India's heritage and culture and the contact links of the creator of the website.
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/174476179-e9f8ebd3-a925-4e55-bd99-06351328581e.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/174476179-e9f8ebd3-a925-4e55-bd99-06351328581e.png
